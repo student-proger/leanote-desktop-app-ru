@@ -17,6 +17,10 @@ var Config = {
             "name": "English"
         },
         {
+            "filename": "ru-ru",
+            "name": "Русский"
+        },
+        {
             "filename": "de-de",
             "name": "Deutsch"
         },
@@ -33,7 +37,7 @@ var Config = {
             "name": "日本語"
         }
     ],
-    "lang": "",
+    "lang": "ru-ru",
     "theme": "pebbles",
     "view": "snippet"
 };
