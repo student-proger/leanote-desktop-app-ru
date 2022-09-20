@@ -1,6 +1,7 @@
 # Leanote Desktop App
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leanote/desktop-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/leanote/desktop-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+![User Interface RU](https://img.shields.io/badge/User_Interface-RU-green)
 
 Use Electron(atom-shell) to create leanote desktop app.
 
