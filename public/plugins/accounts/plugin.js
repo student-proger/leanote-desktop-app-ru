@@ -13,6 +13,37 @@ define(function() {
 			'en-us': {
 				'Accounts': 'Accounts',
 			},
+			'ru-ru': {
+				'Accounts': 'Аккаунты',
+				"Username": "Имя пользователя",
+				"Is Local": "Локальный",
+				'Host': 'Сервер',
+				"Yes": "Да",
+				"No": "Нет",
+				"DB Optimization": "Оптимизация БД",
+				"Open Dir": "Открыть каталог",
+				"Data": "Даные",
+				"Options": "Опции",
+				"Current": "Текущий",
+				"Delete": "Удалить",
+				"Close": "Закрыть",
+
+				"Optimizing": "Оптимизация",
+				"Completed": "Завершено",
+				"Deleted": "Удалено",
+
+				"Error": "Ошибка",
+				"No such account": "Нет такого аккаунта",
+				"Are you sure, it can't be recovered after it has been deleted": "Вы уверены, что его нельзя восстановить после того, как он был удален",
+
+				"Notebook": "Блокноты",
+				"Note": "Заметки",
+				"Tag": "Теги",
+
+				"Database": "База данных",
+				"Image": "Изображения",
+				"Attachment": "Вложения",
+			},
 			'de-de': {
 				'Accounts': 'Benutzerkonten',
 				"Username": "Benutzername",

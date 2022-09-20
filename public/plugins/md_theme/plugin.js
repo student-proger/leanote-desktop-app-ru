@@ -7,6 +7,9 @@ define(function() {
 			'en-us': {
 				'changeTheme': 'Change markdown theme',
 			},
+			'ru-ru': {
+				'changeTheme': 'Изменить тему markdown',
+			},
 			'de-de': {
 				'changeTheme': 'Markdown auswählen',
 			},

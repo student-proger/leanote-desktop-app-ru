@@ -73,6 +73,14 @@ define(function() {
                 'exportFailure': 'Evernote saved failure!',
                 'notExists': 'Please sync your note to ther server firslty.'
             },
+            'ru-ru': {
+                'export': 'Evernote',
+                'Exporting': 'Экспорт',
+                'Exporting: ': 'Экспорт: ',
+                'exportSuccess': 'Evernote - сохранение успешно!',
+                'exportFailure': 'Evernote - ошибка сохранения!',
+                'notExists': 'Пожалуйста, сначала синхронизируйте свою заметку с сервером.'
+            },
             'de-de': {
                 'export': 'Als Evernote exportieren',
                 'Exporting': 'Exportiere',

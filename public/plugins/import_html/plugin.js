@@ -22,6 +22,16 @@ define(function() {
 				"Import file: %s Failure, is html file ?": "Datei importieren: %s fehlgeschlagen! Ist das eine HTML Datei?",
 				"Import: %s Success!": "Import: %s erfolgreich!"
 			},
+			'ru-ru': {
+				'importHTML': 'HTML',
+				'Choose HTML files(.html)': 'Выберите HTML файл (.html)',
+				'Close': "Закрыть",
+				'Import to': "Импорт в",
+				"Done! %s notes imported!": "Выполнено! Импортировано %s заметок!",
+				"Import file: %s Success!": "Импорт файла: %s - Успешно!",
+				"Import file: %s Failure, is html file ?": "Импорт файла: %s - Ошибка! Это действительно файл HTML?",
+				"Import: %s Success!": "Импорт: %s - Успешно!"
+			},
 			'zh-cn': {
 				'importHTML': '导入HTML/为知笔记',
 				'Choose HTML files(.html)': '选择HTML文件(.html)',

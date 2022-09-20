@@ -22,6 +22,16 @@ define(function() {
 				"Import file: %s Failure, is leanote file ?": "Datei importieren: %s fehlgeschlagen! Ist das eine Leanote Datei?",
 				"Import: %s Success!": "Import: %s erfolgreich!"
 			},
+			'ru-ru': {
+				'importLeanote': 'Leanote',
+				'Choose Leanote files(.leanote)': 'Выберите файл Leanote (.leanote)',
+				'Close': "Закрыть",
+				'Import to': "Импорт в",
+				"Done! %s notes imported!": "Выполнено! Импортировано %s заметок!",
+				"Import file: %s Success!": "Импорт файла: %s - Успешно!",
+				"Import file: %s Failure, is leanote file ?": "Импорт файла: %s - Ошибка! Это действительно файл Leanote?",
+				"Import: %s Success!": "Импорт: %s - Успешно!"
+			},
 			'zh-cn': {
 				'importLeanote': '导入Leanote',
 				'Choose Leanote files(.leanote)': '选择Leanote文件(.leanote)',

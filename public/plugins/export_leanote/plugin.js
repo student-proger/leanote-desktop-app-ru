@@ -42,6 +42,14 @@ define(function() {
 				'exportFailure': 'Leanote saved failure!',
 				'notExists': 'Please sync your note to ther server firslty.'
 			},
+			'ru-ru': {
+				'export': 'Leanote',
+				'Exporting': 'Экспорт',
+				'Exporting: ': 'Экспорт: ',
+				'exportSuccess': 'Leanote - успешно сохранено!',
+				'exportFailure': 'Leanote - ошибка сохранения!',
+				'notExists': 'Пожалуйста, сначала синхронизируйте свою заметку с сервером.'
+			},
 			'de-de': {
 				'export': 'Als Leanote exportieren',
 				'Exporting': 'Exportiere',
