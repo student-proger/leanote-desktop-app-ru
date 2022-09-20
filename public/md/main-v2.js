@@ -12829,7 +12829,7 @@ define('extensions/toc',[
             $("#leanoteNavContentMd").height("auto"); // auto
             try {
                 if(!$(htmlToc).text()) {
-                    $("#leanoteNavContentMd").html("&nbsp; &nbsp; Nothing...");
+                    $("#leanoteNavContentMd").html("&nbsp; &nbsp; Ничего...");
                 }
             } catch(e) {}
             // 这里, resize Height

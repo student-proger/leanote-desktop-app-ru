@@ -13,6 +13,15 @@ define(function() {
                 'select-template': 'Select Template Please.',
                 'new-note-fail': 'New note fail. ',
             },
+            'ru-ru': {
+                'newNoteByTemplate': 'Новая заметка из шаблона',
+                'template': 'Шаблон',
+                'close': 'Закрыть',
+                'newNote': 'Новая заметка',
+                'warning': 'Внимание',
+                'select-template': 'Выберите шаблон.',
+                'new-note-fail': 'Ошибка. ',
+            },
             'de-de': {
                 'newNoteByTemplate': 'Neue Notiz aus Vorlage',
                 'template': 'Vorlage',

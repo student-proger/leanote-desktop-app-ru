@@ -22,6 +22,16 @@ define(function() {
 				"Import file: %s Failure, is evernote file ?": "Datei importieren: %s fehlgeschlagen! Ist das eine Evernote Datei?",
 				"Import: %s Success!": "Import: %s erfolgreich!"
 			},
+			'ru-ru': {
+				'importEvernote': 'Evernote',
+				'Choose Evernote files(.enex)': 'Выберите файл Evernote (.enex)',
+				'Close': "Закрыть",
+				'Import to': "Импорт в",
+				"Done! %s notes imported!": "Выполнено! Импортировано %s заметок!",
+				"Import file: %s Success!": "Импорт файла: %s - Успешно!",
+				"Import file: %s Failure, is evernote file ?": "Импорт файла: %s - Ошибка! Это действительно файл Evernote?",
+				"Import: %s Success!": "Импорт: %s - Успешно!"
+			},
 			'zh-cn': {
 				'importEvernote': '导入Evernote',
 				'Choose Evernote files(.enex)': '选择Evernote文件(.enex)',

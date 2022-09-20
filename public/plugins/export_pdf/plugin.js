@@ -16,6 +16,13 @@ define(function() {
                 'exportSuccess': 'PDF saved successful!',
                 'exportFailure': 'PDF saved failure!',
             },
+            'ru-ru': {
+                'export': 'PDF',
+                'Exporting': 'Экспорт',
+                'Exporting: ': 'Экспорт: ',
+                'exportSuccess': 'PDF сохранён успешно!',
+                'exportFailure': 'Ошибка сохранения PDF!',
+            },
             'de-de': {
                 'export': 'Als PDF exportieren',
                 'Exporting': 'Exportiere',

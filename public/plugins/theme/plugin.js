@@ -7,6 +7,9 @@ define(function() {
 			'en-us': {
 				'changeTheme': 'Change theme',
 			},
+			'ru-ru': {
+				'changeTheme': 'Выбрать тему',
+			},
 			'de-de': {
 				'changeTheme': 'Design auswählen',
 			},

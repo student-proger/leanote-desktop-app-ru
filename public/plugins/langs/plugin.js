@@ -7,6 +7,9 @@ define(function() {
 			'en-us': {
 				'setLang': 'Langs',
 			},
+			'ru-ru': {
+				'setLang': 'Язык',
+			},
 			'de-de': {
 				'setLang': 'Sprache',
 			},

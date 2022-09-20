@@ -17,6 +17,14 @@ define(function() {
                 'exportFailure': 'HTML saved failure!',
                 'notExists': 'Please sync your note to ther server firslty.'
             },
+            'ru-ru': {
+                'export': 'HTML',
+                'Exporting': 'Экспорт',
+                'Exporting: ': 'Экспорт: ',
+                'exportSuccess': 'HTML - сохранение успешно!',
+                'exportFailure': 'HTML - ошибка сохранения!',
+                'notExists': 'Пожалуйста, сначала синхронизируйте свою заметку с сервером.'
+            },
             'de-de': {
                 'export': 'Als HTML exportieren',
                 'Exporting': 'Exportiere',

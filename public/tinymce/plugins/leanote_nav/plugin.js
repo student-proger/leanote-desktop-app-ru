@@ -27,7 +27,7 @@ tinymce.PluginManager.add('leanote_nav', function(editor) {
 		titles += "</ul>";
 		$("#leanoteNavContent").html(titles).height("auto"); // auto
 		if(!hs.length) {
-			$("#leanoteNavContent").html("&nbsp; Nothing...");
+			$("#leanoteNavContent").html("&nbsp; Ничего...");
 		}
 		
 		// 这里, resize Height
